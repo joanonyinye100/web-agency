@@ -29,10 +29,11 @@ header{
     padding-left: 20px;
 }
 .section1 input, textarea{
-    width: 40%;
+    width: 45%;
     padding: 15px;
     margin: 5px;
     margin-right: 50px;
+
 }
 .section2{
     background-color: #e8e7e7;
@@ -120,7 +121,7 @@ footer{
     height: 60px;
     border-radius: 100%;
     padding: 9px;
-    margin-left: 180px;
+    margin-left: 150px;
     padding-right: 5px;
 }
 .info{
@@ -132,9 +133,22 @@ background-color: #e8e7e7;
     padding: 0;
 }
 textarea{
-    width: 88.4%;
+    width: 95%;
     resize: none;
     background-color: #e8e7e7;
     outline: none;
     border: none;
+}
+.enter{
+    width: 40%;
+}
+.btn{
+    display: block;
+    justify-content: flex-end;
+    align-items: end;
+}
+.btnsubmit{
+    align-items: end;
+    justify-content: end;
+    margin-right: 20px;
 }
