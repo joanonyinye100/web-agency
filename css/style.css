@@ -1,0 +1,140 @@
+*{
+    box-sizing: border-box;
+}
+header{
+    top: 0;
+    left: 0;
+    right: 0;
+    box-shadow: 0px 3px 12px 0px rgba(0, 0, 0, 0.55) !important;
+    z-index: 999999;
+}
+
+.nav-bar{
+    background-color: white;
+
+}
+.nav-link{
+    color: gray;
+}
+
+ h5, p, li{
+    color: gray;
+}
+.section1 ul li{
+    list-style-type: none;
+    
+}
+.section1 .about{
+    margin-right: 0;
+    padding-left: 20px;
+}
+.section1 input, textarea{
+    width: 40%;
+    padding: 15px;
+    margin: 5px;
+    margin-right: 50px;
+}
+.section2{
+    background-color: #e8e7e7;
+    width: 100%;
+    min-height: 450px;
+}
+.section2 .work{
+    background-color: #1979e6;
+    color: white;
+    border-radius: 360px;
+    width: 30%;
+    height: 30%;
+}
+.Innovators img{
+width: 95%;
+height: 80%;
+}
+.section4{
+    background-color: #e8e7e7;
+}
+.section6{
+    background-color: #e8e7e7;
+}
+.section8{
+    background-color: #e8e7e7;
+}
+.contact-button, .section6 button{
+    background-color: #e8e7e7;
+    display: block;
+    align-items: end;
+    margin: 0 auto;
+}
+.map{
+    background-image: url(../images/map1.avif);
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 450px;
+}
+button, .cta{
+    border: 2px solid #1979e6;
+    background-color: white;
+    color: #1979e6;
+    padding: 7px;
+    border-radius: 5px;
+}
+footer{
+    width: 100%;
+    min-height: 300px;
+}
+.email input{
+    background-color: #e8e7e7;
+    border: 2px solid white;
+    outline: none;
+    padding: 7px;
+
+    
+}
+.test{
+    display: flex;
+}
+.team{
+    width: 60px;
+    border-radius: 100%;
+}
+.results{
+    width: 200px;
+    height: 70px;
+    border-radius: 100%;
+    padding: 5px;
+    color: white;
+}
+.blue{
+    background-color: blue;
+}
+.g4{
+    background-image: url(../images/g4.jpg);
+    background-size: cover;
+    background-position: center;
+}
+.video{
+    background-color: #1979e6;
+    margin-top: 150px;
+    width: 12%;
+    height: 60px;
+    border-radius: 100%;
+    padding: 9px;
+    margin-left: 180px;
+    padding-right: 5px;
+}
+.info{
+background-color: #e8e7e7;
+}
+.map .card{
+    width: 30%;
+    margin: 0;
+    padding: 0;
+}
+textarea{
+    width: 88.4%;
+    resize: none;
+    background-color: #e8e7e7;
+    outline: none;
+    border: none;
+}
