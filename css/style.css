@@ -115,16 +115,7 @@ footer{
     background-size: cover;
     background-position: center;
 }
-.video{
-    background-color: #1979e6;
-    margin-top: 150px;
-    width: 12%;
-    height: 60px;
-    border-radius: 100%;
-    padding: 9px;
-    margin-left: 150px;
-    padding-right: 5px;
-}
+
 .info{
 background-color: #e8e7e7;
 }
