@@ -1,5 +1,6 @@
 *{
     box-sizing: border-box;
+    font-size: 15px;
 }
 header{
     top: 0;
@@ -67,7 +68,7 @@ height: 80%;
     margin: 0 auto;
 }
 .map{
-    background-image: url(../images/map1.avif);
+    background-image: url(../images/google.jpg);
     background-size: cover;
     background-position: center;
     width: 100%;
